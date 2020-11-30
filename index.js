@@ -14,7 +14,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'Emon BOT☄'; 
-const instagram = 'https://instagram.com/fr_why14'; 
+const instagram = '@fr_why14'; 
 const whatsapp = '083180307056'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'Belum ada';
